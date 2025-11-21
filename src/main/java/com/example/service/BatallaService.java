@@ -13,7 +13,7 @@ import java.util.Random;
 @Service
 public class BatallaService {
 
- private final BatallaRepository batallaRepository; //prueba
+ private final BatallaRepository batallaRepository; // prueba
  private final PokemonRepository pokemonRepository;
  private final PokemonService pokemonService;
  private final Random random = new Random();

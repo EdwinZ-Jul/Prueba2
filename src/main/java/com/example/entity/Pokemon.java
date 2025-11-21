@@ -28,7 +28,7 @@ public class Pokemon {
     private List<Batalla> batallasComoPokemon2;
 
     // ==========================
-    //   CONSTRUCTOR REQUERIDO POR JPA AYUDAAAAA
+    //   CONSTRUCTOR REQUERIDO POR JPA GRACIAS RODOLFO
     // ==========================
     public Pokemon() {
     }
